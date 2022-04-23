@@ -18,10 +18,10 @@
   <a href="https://linkedin.com/in/ziad-adeela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad-adeela" height="30" width="40" /></a>
   <a href="https://medium.com/@ziad-adeela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ziad-adeela" height="30" width="40" /></a>
   <a href="https://dev.to/ziadadeela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ziadadeela" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/ziad-adeela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ziad-adeela" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/13229814/ziad-adeela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ziad-adeela" height="30" width="40" /></a>
   <a href="https://instagram.com/ziad-adeela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziad-adeela" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/ziad-adeela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ziad-adeela" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/uclid5w589yydws-cjrbe9hq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uclid5w589yydws-cjrbe9hq" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UClid5W589YydWS-cjrbE9hQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uclid5w589yydws-cjrbe9hq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
