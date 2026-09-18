@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziad Adeela</h1>
 <h3 align="center">Backend development is my thing but curiosity won't stop me there 😁</h3>
 
-- 🔭 I’m currently contributing to [FAKE](https://github.com/fsprojects/FAKE)
-
-- 🌱 I’m currently learning **System Design**
-
-- 📫 How to reach me: **ziadadeela96@gmail.com**
-
-- ⚡ Fun fact: **I guess I'm an Opacarophile**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How did I build my first react package](https://ziad-adeela.medium.com/how-did-i-build-my-first-react-package-c1c10e943eb4?source=rss-3077da2aede0------2)
